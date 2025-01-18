@@ -1,0 +1,18 @@
+body,
+html {
+    overflow: auto;
+    /* Allow scrolling */
+    height: 100%;
+    user-select: none;
+}
+
+/* Hide scrollbars for the entire page */
+body::-webkit-scrollbar {
+    display: none;
+    /* Chrome, Safari, and Edge */
+}
+
+body {
+    scrollbar-width: none;
+    /* Firefox */
+}
