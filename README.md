@@ -1,2 +1,8 @@
-# Glamify---Beauty-E-Commerce-Web-Application-
-Glamify is a modern and elegant beauty e-commerce web application designed to provide a seamless shopping experience for skin, hair, and body care products. With a user-friendly interface and a range of features, Glamify caters to both beauty enthusiasts and casual shoppers, offering a one-stop platform for all their beauty needs.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
